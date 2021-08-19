@@ -12,7 +12,6 @@ I refered to the pinmap of each part, and made the map of connection with arduin
 If you want to see the pinmap of the part you have, you can see that in google.
 
 I got the map in [GSW(Global Service Way - Technical Information)](https://gsw.hyundai.com).
-***
 
 ## Reference of the code
 
