@@ -17,5 +17,6 @@ I got the map in [GSW(Global Service Way - Technical Information)](https://gsw.h
 ## Reference of the code
 
 I refered the library of [ArduinoJoystickLibrary made by MHeironimus](https://github.com/MHeironimus/ArduinoJoystickLibrary).
-You HAVE TO install the Arduino library in your environment, if you want refer my code.
+
+You __HAVE TO__ install the Arduino library in your environment, if you want refer my code.
 
