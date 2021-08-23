@@ -1,4 +1,4 @@
-# ETS2Controler-Arduino-Leonardo
+# ETS2 Controler with Arduino Leonardo
 
 This code is made for ETS2 controler with parts of real cars.
 If you want to use this code in your hardware, you have to make a pinmap and set pins where they should be.
