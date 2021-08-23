@@ -10,12 +10,31 @@ I refered to the pinmap of each part, and made the map of connection with arduin
 ## Make a PINMAP
 
 If you want to see the pinmap of the part you have, you can see that in google.
-
 I got the map in [GSW(Global Service Way - Technical Information)](https://gsw.hyundai.com).
+
+### Pin Map
+
+#### Multi-Function Switch (Connector : M20-L, M20-R)
+
+##### M20-L
+Pin number | Usage
+---------- | -----
+1 | Taillamp on/off
+2 | Ground of lightswitch
+3 | Autolight on/off **(unavailable)**
+4 | Headlamp on/off
+5 | Ground of foglamp
+6 | Foglamp on/off
+7 | _Unconnected_
+8 | Headlamp LO state
+9 | Headlamp HI state
+10 | Headlamp state switch input
+11 | Left turnsignal on/off
+12 | Turnsignal switch input
+13 | Right turnsignal on/off
 
 ## Reference of the code
 
 I refered the library of [ArduinoJoystickLibrary made by MHeironimus](https://github.com/MHeironimus/ArduinoJoystickLibrary).
-
 You __HAVE TO install__ the Arduino library in your environment, if you want refer my code.
 
