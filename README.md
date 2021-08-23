@@ -25,7 +25,7 @@ Pin number | Usage
 4 | Headlamp on/off
 5 | Ground of foglamp
 6 | Foglamp on/off
-7 | _Unconnected_
+7 | **_Unconnected_**
 8 | Headlamp LO state
 9 | Headlamp HI state
 10 | Headlamp state switch input
