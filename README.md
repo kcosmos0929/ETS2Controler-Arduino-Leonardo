@@ -14,24 +14,53 @@ I got the map in [GSW(Global Service Way - Technical Information)](https://gsw.h
 
 ### Pin Map
 
-#### Multi-Function Switch (Connector : M20-L, M20-R)
+#### Multi-Function Switch (Connector : M20-L, M20-W)
 
-##### M20-L
-Pin number | Usage
+##### M20-L(Light switch connector)
+![AnyConv com__5xsf7ypp](https://user-images.githubusercontent.com/81617707/130624823-6ad2b161-9b47-467c-9855-873a33e59208.jpg)
+Pin number | When signal is HIGH
 ---------- | -----
-1 | Taillamp on/off
-2 | Ground of lightswitch
-3 | Autolight on/off **(unavailable)**
-4 | Headlamp on/off
-5 | Ground of foglamp
-6 | Foglamp on/off
+1 | Tail lamp ON
+2 | Ground of light switch
+3 | Autolight ON **(unavailable)**
+4 | Head lamp ON
+5 | Ground of fog lamp
+6 | Fog lamp on/off
 7 | **_Unconnected_**
-8 | Headlamp LO state
-9 | Headlamp HI state
-10 | Headlamp state switch input
-11 | Left turnsignal on/off
-12 | Turnsignal switch input
-13 | Right turnsignal on/off
+8 | Head lamp LO state
+9 | Head lamp HI state
+10 | Head lamp state switch input
+11 | Left turnsignal ON
+12 | Main power of turnsignal switch
+13 | Right turnsignal ON
+
+##### M20-W(Washer switch connector)
+![AnyConv com__2mp09htt](https://user-images.githubusercontent.com/81617707/130625074-c7b136cf-a74c-4ebd-96c7-9d39599c2efe.jpg)
+Pin number | When signal is HIGH
+---------- | -----
+1 | Mist state ON
+2 | Ground of front washer switch
+3 | Front wipers LO state
+4 | Ground of front wipers INT speed
+5 | Front wipers of INT speed value output**(Analog Output)**
+6 | Rear wiper ON
+7 | Rear wiper INT ON
+8 | Front wipers INT state
+9 | Front wipers HI state
+10 | Main power of front wipers & washer switch
+11 | Front washer ON
+12 | Main power of rear wiper & washer switch
+13 | Rear washer ON
+
+## Set Virtual Joystick Buttons
+ETS2 support this buttons.
+* Turn on/off Left/Right Turnsignal
+* Turn on/off Hazard light
+* Turn on/off Head light(only it works off-tail light-headlight)
+* Turn on/off high beam
+* Turn on/off passing light
+* Increase wiper speed
+* Decrease wiper speed
 
 ## Reference of the code
 
