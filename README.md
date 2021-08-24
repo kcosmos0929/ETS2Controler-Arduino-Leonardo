@@ -26,7 +26,7 @@ Pin number | When signal is HIGH
 4 | Head lamp ON
 5 | Ground of fog lamp
 6 | Fog lamp on/off
-* | **_Unconnected_**
+7 | *(**_Unconnected_**)
 8 | Head lamp LO state
 9 | Head lamp HI state
 10 | Head lamp state switch input
@@ -51,7 +51,7 @@ Pin number | When signal is HIGH
 11 | Front washer ON
 12 | Main power of rear wiper & washer switch
 13 | Rear washer ON
-* | **_Unconnected_**
+14 | *(**_Unconnected_**)
 
 ## Set Virtual Joystick Buttons
 ETS2 support this buttons.
