@@ -1,4 +1,4 @@
-# ETS2 Controler with Arduino Leonardo
+# ETS2 Controller with Arduino Leonardo
 
 This code is made for ETS2 controler with parts of real cars.
 If you want to use this code in your hardware, you have to make a pinmap and set pins where they should be.
@@ -53,7 +53,7 @@ Pin number | When signal is HIGH
 13 | Rear washer ON
 14 | *(**_Unconnected_**)
 
-## Set Virtual Joystick Buttons
+## Set virtual joystick buttons
 ETS2 support this buttons.
 * Turn on/off Left/Right Turnsignal
 * Turn on/off Hazard light
@@ -62,6 +62,9 @@ ETS2 support this buttons.
 * Turn on/off passing light
 * Increase wiper speed
 * Decrease wiper speed
+
+## Design the circit
+When you make the pinmap exactly, then you'll design the circit of the controller. you should know how pull-up switch and pull-down switch work. You should look the schematic of switchs and decide switch type of your circit.
 
 ## Reference of the code
 
