@@ -50,4 +50,5 @@ void WiperButtonState()
     for (int i; i < KeyValue; i++) {
       PressWiperDOWNButton();
     }
+  LastWiperSwitchState = CurrentWiperSwitchState;
   }
