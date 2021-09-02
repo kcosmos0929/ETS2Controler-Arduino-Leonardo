@@ -18,6 +18,7 @@ I got the map in [GSW(Global Service Way - Technical Information)](https://gsw.h
 
 ##### M20-L(Light switch connector)
 ![AnyConv com__5xsf7ypp](https://user-images.githubusercontent.com/81617707/130624823-6ad2b161-9b47-467c-9855-873a33e59208.jpg)
+
 Pin number | When signal is HIGH
 ---------- | -----
 1 | Tail lamp ON
@@ -36,13 +37,14 @@ Pin number | When signal is HIGH
 
 ##### M20-W(Washer switch connector)
 ![AnyConv com__2mp09htt](https://user-images.githubusercontent.com/81617707/130625074-c7b136cf-a74c-4ebd-96c7-9d39599c2efe.jpg)
+
 Pin number | When signal is HIGH
 ---------- | -----
 1 | Mist state ON
 2 | Ground of front washer switch
 3 | Front wipers LO state
 4 | Ground of front wipers INT speed
-5 | Front wipers of INT speed value output**(Analog Output)**
+5 | Front wipers of INT speed value output **(Analog Output)**
 6 | Rear wiper ON
 7 | Rear wiper INT ON
 8 | Front wipers INT state
@@ -52,6 +54,20 @@ Pin number | When signal is HIGH
 12 | Main power of rear wiper & washer switch
 13 | Rear washer ON
 14 | *(**_Unconnected_**)
+
+#### Key box switch (Connector : M18)
+
+##### M18
+![mcmy21ff](https://user-images.githubusercontent.com/81617707/131852206-84e84e29-8451-4cf9-9730-7815e3f133ea.jpg)
+
+Pin number | When signal is HIGH
+-----------| -----------
+1 | Main power input of the switch
+2 | Key is ON state
+3 | Key is Start state
+4 | Key is from ON state to Start state
+5 | Main power input of the switch
+6 | Key is from ACC state to ON state
 
 ## Set virtual joystick buttons
 ETS2 support this buttons.
