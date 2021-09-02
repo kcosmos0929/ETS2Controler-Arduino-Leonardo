@@ -14,6 +14,8 @@ I got the map in [GSW(Global Service Way - Technical Information)](https://gsw.h
 
 ### Pin Map
 
+***
+
 #### Multi-Function Switch (Connector : M20-L, M20-W)
 
 ##### M20-L(Light switch connector)
@@ -55,6 +57,8 @@ Pin number | When signal is HIGH
 13 | Rear washer ON
 14 | *(**_Unconnected_**)
 
+***
+
 #### Key box switch (Connector : M18)
 
 ##### M18
@@ -68,6 +72,8 @@ Pin number | When signal is HIGH
 4 | Key is from ON state to Start state
 5 | Main power input of the switch
 6 | Key is from ACC state to ON state
+
+***
 
 ## Set virtual joystick buttons
 ETS2 support this buttons.
