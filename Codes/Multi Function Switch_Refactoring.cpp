@@ -281,6 +281,7 @@ void SetControllerButton() {
                     break;
                 }
                 LastPinStateArray[11] = CurrentPinState;
+                break;
             // Cruise control
             case 12:
                 int CruiseControlIndex = CurrentPinState - LastPinState
