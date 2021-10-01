@@ -1,5 +1,11 @@
-# ETS2 Controller with Arduino Leonardo
+# ETS2 Controller with Arduino
 
+##### KOR
+이 프로젝트는 실제 차량의 부품을 이용하여 유로트럭 시뮬레이터 컨트롤러를 제작하는 과정입니다.
+사용한 부품은 모두 현대 2010년식 투싼ix에 사용되는 부품을 토대로 제작했습니다.
+컴퓨터와 아두이노의 직접연결은 USB로 통신을 하게 되며 만약 컨트롤러를 자체제작하고 싶으시다면, 사용할 부품을 가진 차량의 회로도를 찾아서 각 핀이 어떤 역할을 하는지 확인하시고 그에 따라 코딩하시면 됩니다.
+
+##### ENG
 This code is made for ETS2 controler with parts of real cars.
 If you want to use this code in your hardware, you have to make a pinmap and set pins where they should be.
 I made this code and hardware with the parts those are in Tuxcan ix since 2010 of Hyundai.
